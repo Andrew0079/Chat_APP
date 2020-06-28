@@ -1,3 +1,3 @@
 # Chat_APP
 Built Using Node, Express and Socket.IO
-To visist: https://evening-mountain-28186.herokuapp.com
+To visit the app go to: https://evening-mountain-28186.herokuapp.com
